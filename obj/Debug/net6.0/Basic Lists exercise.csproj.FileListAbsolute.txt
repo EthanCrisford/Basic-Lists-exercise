@@ -1,0 +1,15 @@
+D:\College\Basic Lists exercise\bin\Debug\net6.0\Basic Lists exercise.exe
+D:\College\Basic Lists exercise\bin\Debug\net6.0\Basic Lists exercise.deps.json
+D:\College\Basic Lists exercise\bin\Debug\net6.0\Basic Lists exercise.runtimeconfig.json
+D:\College\Basic Lists exercise\bin\Debug\net6.0\Basic Lists exercise.dll
+D:\College\Basic Lists exercise\bin\Debug\net6.0\Basic Lists exercise.pdb
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.csproj.AssemblyReference.cache
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.AssemblyInfoInputs.cache
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.AssemblyInfo.cs
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.csproj.CoreCompileInputs.cache
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.dll
+D:\College\Basic Lists exercise\obj\Debug\net6.0\refint\Basic Lists exercise.dll
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.pdb
+D:\College\Basic Lists exercise\obj\Debug\net6.0\Basic Lists exercise.genruntimeconfig.cache
+D:\College\Basic Lists exercise\obj\Debug\net6.0\ref\Basic Lists exercise.dll
